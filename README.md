@@ -51,7 +51,7 @@ Universitat Politècnica de Catalunya (UPC)
 
 Feel free to check out my repositories below or reach out to collaborate or chat about AI, data, or any cool project ideas!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-HalaAlkhatibAlachram-blue)](www.linkedin.com/in/hala-alkhatib-alachram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-HalaAlkhatibAlachram-blue)](https://www.linkedin.com/in/hala-alkhatib-alachram)
 [![Email](https://img.shields.io/badge/Email-hsak2400@gmail.com-informational)](mailto:hsak2400@gmail.com)
 
 
