@@ -53,7 +53,7 @@ Feel free to check out my repositories below or reach out to collaborate or chat
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-HalaAlkhatibAlachram-blue)](https://www.linkedin.com/in/hala-alkhatib-alachram)
 [![Email](https://img.shields.io/badge/Email-hsak2400@gmail.com-informational)](mailto:hsak2400@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-HalaAlkhatib-81-black?logo=github)](https://github.com/HalaAlkhatib-81)
+[![GitHub](https://img.shields.io/badge/GitHub-HalaAlkhatib--81-black?logo=github)](https://github.com/HalaAlkhatib-81)
 
 
 
