@@ -8,7 +8,7 @@ I'm always eager to learn and take on new challenges, both independently and in 
 ## Technical Skills
 
 - **Programming Languages:** Python, C++, Java, C, R, SQL/PostgreSQL 
-- **Libraries & Tools:** Pandas, NumPy, MATLAB  
+- **Libraries & Tools:** Pandas, NumPy,MATLAB
 - **Spoken Languages:**  
   - Arabic (native)  
   - Spanish (native)  
