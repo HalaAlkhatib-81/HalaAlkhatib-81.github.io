@@ -1,6 +1,5 @@
-title: Hala Alkhatib Alachram
-email: hsak2400@gmail.com
+title: Hi there!
 logo: /images/hala.png
-description: text below image
+#description: 
 show_downloads: true
-theme: jekyll-theme-hacker
+theme: jekyll-theme-midnight
