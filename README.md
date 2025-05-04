@@ -1,4 +1,4 @@
-### Hala Alkhatib
+## Hi there!
 
 Welcome to my GitHub portfolio! I'm a passionate and curious third-year Computer Science student at Universitat Politècnica de Catalunya (UPC) specializing in Computing. I'm especially interested in **Artificial Intelligence**, **Data Science**, and **Software Development**.
 
