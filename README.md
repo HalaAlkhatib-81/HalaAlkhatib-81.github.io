@@ -1,7 +1,15 @@
 ## About Me
-Welcome to my portfolio! I'm a passionate and curious third-year Computer Science student at Universitat Politècnica de Catalunya (UPC) specializing in Computing. I'm especially interested in **Artificial Intelligence**, **Data Science**, and **Software Development**.
+Welcome to my portfolio! I'm a passionate and curious third-year Computer Science student at Universitat Politècnica de Catalunya (UPC) specializing in Computing. I'm especially interested in **Data Science** and **Software Development**.
 
 I'm always eager to learn and take on new challenges, both independently and in team environments. My goal is to grow professionally while applying my skills to impactful and meaningful projects. I thrive when learning something new, especially in fast-moving, innovative fields.
+
+---
+
+## Education
+
+**BSc in Computer Science (specialization in Computing)**  
+Universitat Politècnica de Catalunya (UPC)  
+📍 2022 – Present
 
 ---
 
@@ -15,14 +23,6 @@ I'm always eager to learn and take on new challenges, both independently and in 
   - Catalan (native)  
   - English (advanced)  
   - French (basic)
-
----
-
-## Education
-
-**BSc in Computer Science (specialization in Computing)**  
-Universitat Politècnica de Catalunya (UPC)  
-📍 2022 – Present
 
 ---
 
