@@ -41,7 +41,11 @@ Universitat Politècnica de Catalunya (UPC)
 - **Day Center for Seniors (2019):** Accompanied and organized activities for elderly people with neurodegenerative diseases  
 
 ---
+## Projects
 
+1. Top movies analysis: Analysis done on a dataframe of top rated IMDB movies in which I've analysed multiple insight and extracted some conclusions about movie tendencies  
+  - Link: https://github.com/HalaAlkhatib-81/IMDB_top_movie_analysis
+---
 ## 📫 Let's Connect
 
 Feel free to check out my repositories below or reach out to collaborate or chat about AI, data, or any cool project ideas!
