@@ -15,8 +15,8 @@ Universitat Politècnica de Catalunya (UPC)
 ## Personal projects
 
 - Analysis of top rated movies on IMDB
-- 
-All my projects can be found on my Github profile
+- Note: All my projects can be found on my Github profile
+
 ---
 
 ## Technical Skills
