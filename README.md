@@ -12,6 +12,12 @@ Universitat Politècnica de Catalunya (UPC)
 📍 2022 – Present
 
 ---
+## Personal projects
+
+- Analysis of top rated movies on IMDB
+- 
+All my projects can be found on my Github profile
+---
 
 ## Technical Skills
 
@@ -41,11 +47,7 @@ Universitat Politècnica de Catalunya (UPC)
 - **Day Center for Seniors (2019):** Accompanied and organized activities for elderly people with neurodegenerative diseases  
 
 ---
-## Projects
 
-- Top movies analysis: Analysis done on a dataframe of top rated IMDB movies in which I've analysed multiple insight and extracted some conclusions about movie tendencies: [![Data Analysis Project](https://img.shields.io/badge/Project-IMDb%20Top%201000%20Analysis-blueviolet?style=flat-square&logo=python&logoColor=white)](https://github.com/HalaAlkhatib-81/IMDB_top_movie_analysis)
-
----
 ## 📫 Let's Connect
 
 Feel free to check out my repositories below or reach out to collaborate or chat about AI, data, or any cool project ideas!
