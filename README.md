@@ -43,7 +43,7 @@ Universitat Politècnica de Catalunya (UPC)
 ---
 ## Projects
 
-1. Top movies analysis: Analysis done on a dataframe of top rated IMDB movies in which I've analysed multiple insight and extracted some conclusions about movie tendencies: [![Data Analysis Project](https://img.shields.io/badge/Project-IMDb%20Top%201000%20Analysis-blueviolet?style=flat-square&logo=python&logoColor=white)](https://github.com/HalaAlkhatib-81/IMDB_top_movie_analysis)
+- Top movies analysis: Analysis done on a dataframe of top rated IMDB movies in which I've analysed multiple insight and extracted some conclusions about movie tendencies: [![Data Analysis Project](https://img.shields.io/badge/Project-IMDb%20Top%201000%20Analysis-blueviolet?style=flat-square&logo=python&logoColor=white)](https://github.com/HalaAlkhatib-81/IMDB_top_movie_analysis)
 ---
 ## 📫 Let's Connect
 
